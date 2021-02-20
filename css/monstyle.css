@@ -1,0 +1,41 @@
+.margintop {
+    margin-top: 60px;
+}
+.editpwd-page h1,h2 {
+    color: hsl(249, 82%, 50%);
+}
+
+.editpwd-page h1 {
+    font-size: 60px;
+}
+
+.editpwd-page h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.editpwd-page form{
+    width: 400px;
+    margin: auto;
+}
+.editpwd-page input{
+    margin-bottom: 20px;
+}
+.input-container{
+    position: relative;
+    
+}
+
+.show-new-pass, .show-old-pass{
+    position: absolute;
+    top: 8px;
+    right: -25px;
+}
+h1{
+    font-size: 40px;
+    color: rgba(0, 0, 255, 0.377);
+}
+.input-container{
+    position: relative;
+    margin-bottom: 10px;
+}
